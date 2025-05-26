@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "company": "Soft UI Shopify Version",
+    "image":"shopify.svg",
+    "members": ["face-1.svg", "face-2.svg", "face-3.svg", "face-4.svg"],
+    "budget": "$14,000",
+    "completion": "60%",
+    "status": "Working"
+  },
+  {
+    "id": 2,
+    "company": "Progress Track",
+     "image":"atlassian.svg",
+    "members": ["face-1.svg", "face-4.svg"],
+    "budget": "$3,000",
+    "completion": "10%",
+    "status": "Working"
+  },
+  {
+    "id": 3,
+    "company": "Fix Platform Errors",
+     "image":"slack.svg",
+    "members": [ "face-3.svg", "face-4.svg"],
+    "budget": "Not Set",
+    "completion": "100%",
+    "status": "Completed"
+  },
+  {
+    "id": 4,
+    "company": "Launch new Mobile App",
+     "image":"spotify.svg",
+    "members": [ "face-2.svg", "face-3.svg"],
+    "budget": "$20,600",
+    "completion": "100%",
+    "status": "Completed"
+  },
+  {
+    "id": 5,
+    "company": "Add the New Landing Page",
+     "image":"webdev.svg",
+    "members": ["face-1.svg", "face-2.svg", "face-3.svg"],
+    "budget": "$4,000",
+    "completion": "80%",
+    "status": "Working"
+  },
+  {
+    "id": 6,
+    "company": "Redesign Online Store",
+     "image":"invision.svg",
+    "members": ["face-3.svg", "face-4.svg"],
+    "budget": "$2,000",
+    "completion": "cancel",
+    "status": "Canceled"
+  }
+]

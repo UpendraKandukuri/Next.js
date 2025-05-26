@@ -1,0 +1,7 @@
+[
+  { "name": "Sophie B.","image":"/shope.svg", "msg": "Hi! I need more information…" },
+  { "name": "Anne Marie","image":"/anne.svg",  "msg": "Awesome work, can you…" },
+  { "name": "Ivan","image":"/ivan.svg",  "msg": "About files I can…" },
+  { "name": "Peterson","image":"/peter.svg",  "msg": "Have a great afternoon…" },
+  { "name": "Nick Daniel","image":"/nick.svg",  "msg": "Hi! I need more information…" }
+]
